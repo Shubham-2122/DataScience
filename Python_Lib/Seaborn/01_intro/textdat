@@ -1,0 +1,25 @@
+દરેક session માં મળશે: ગુજરાતી theory, Python code, code ની line-by-line સમજણ, practical output નું interpretation, common errors, student quiz અને assignment.
+Module 10 — Seaborn: Statistical Data Visualization
+
+10.1 — Introduction to Seaborn & Themes
+
+Seaborn શું છે, Matplotlib સાથેનો તફાવત, themes અને figure-level vs axes-level functions.
+
+
+
+10.2–10.4 — Categorical & Distribution Plots
+
+countplot, barplot, histplot, kdeplot, boxplot અને violinplot.
+
+
+10.5–10.9 — Multivariate & Statistical Analysis
+
+pairplot, jointplot, correlation heatmap, relational plots અને regression analysis.
+
+10.10–10.11 — Styling & Exporting
+
+Professional color palettes, plotting context, high-resolution charts અને reusable themes.
+
+10.12 — Bank Marketing Campaign Case Study
+
+Real
